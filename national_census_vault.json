@@ -1,0 +1,23 @@
+{
+    "total_count": 2,
+    "records": [
+        {
+            "UID": "0a3fea85",
+            "name": "Fatima Bello",
+            "age": 29,
+            "gender": "Female",
+            "enumerator": "ENUM_01",
+            "gps": "9.0820\u00b0 N, 8.6753\u00b0 E",
+            "timestamp": "2026-04-02T13:43:06.176441"
+        },
+        {
+            "UID": "deb6a3c6",
+            "name": "Ibrahim Musa",
+            "age": 42,
+            "gender": "Male",
+            "enumerator": "ENUM_02",
+            "gps": "9.0820\u00b0 N, 8.6753\u00b0 E",
+            "timestamp": "2026-04-02T13:43:06.178289"
+        }
+    ]
+}
